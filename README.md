@@ -6,7 +6,7 @@ Specifically created to meet the needs and limitations of deepfake detection tec
 The user also provided the name of their project investigator and the email address of their institution for the purpose of requesting the dataset. Please fill out this form to request access to the InDeepFake Dataset. We will review your request and respond as soon as possible.
 [Google Form link](https://forms.gle/RHUSEi71EqWvY66J9)
 # Dataset Details
-![dataset distribution](https://github.com/user-attachments/assets/af3db58a-531f-489d-a695-22ac558ae2b4)
+![dataset distribution](https://github.com/user-attachments/assets/11f623ec-7aea-4ce1-8850-5dc06dd1a426)
 <!--# Deepfake Detection Benchmark Results-->
 <!--# Visualization-->
 # Ethics Statement
