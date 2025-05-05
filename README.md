@@ -8,7 +8,9 @@ Please fill out the form linked below to request access to **_InDeepFake_**. We 
 
 [Access Request Form](https://forms.gle/RHUSEi71EqWvY66J9)
 # Dataset Constitution
-![dataset distribution](https://github.com/user-attachments/assets/c3bb18f9-950c-4d93-9797-2ad2bbe3e110)
+![dataset distribution](https://github.com/user-attachments/assets/3813a282-0db9-465a-8b3c-0eb31d5c5c10)
+
+
 <!--# Deepfake Detection Benchmark Results-->
 <!--# Visualization-->
 # Ethics Statement
