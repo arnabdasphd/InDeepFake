@@ -1,0 +1,11 @@
+tqdm
+torch
+timm
+numpy
+matplotlib
+torchvision
+opencv_python_headless
+pandas
+albumentations
+Flask
+scikit_learn
