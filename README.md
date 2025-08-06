@@ -14,6 +14,7 @@ We will review your request and respond as soon as possible.
 
 # Citation
 All researches that use the dataset or any part of it must cite the following paper:
+
 Arnab Kumar das, Aritra Bose, Priya Manohar, Anurag Dutta, Ruchira Naskar, and Rajat Subhra Chakraborty. "InDeepFake: A novel multimodal multilingual indian deepfake video dataset." Pattern Recognition Letters, vol. 197, pp. 16-23, 2025.
 
 # Dataset Constitution
