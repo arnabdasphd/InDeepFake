@@ -4,7 +4,8 @@
 Specifically created to meet the needs and limitations of deepfake detection technologies, _InDeepFake_ is an innovative multilingual and multimodal audio-video deepfake face dataset for the Indian population. We adopted seven multimodal manipulation techniques for deepfake creation in this dataset. It presents a wide range of dialects and accents that represent the linguistic/ ethnic diversity of India as a nation.
 
 # Download DataSet
-Please fill-in the attached form and email it to **ruchira@it.iiests.ac.in** to request access to _InDeepFake_
+Please fill-in the InDeepFake_Access_Request_Form linked below, and email it to **ruchira@it.iiests.ac.in** to request access to _InDeepFake_
+
 [InDeepFake_Access_Request_Form.pdf](https://github.com/user-attachments/files/21651935/InDeepFake_Access_Request_Form.pdf)
 
 We will review your request and respond as soon as possible.
