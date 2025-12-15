@@ -17,6 +17,9 @@ _Arnab Kumar das, Aritra Bose, Priya Manohar, Anurag Dutta, Ruchira Naskar, and 
 
 Paper Link: https://doi.org/10.1016/j.patrec.2025.07.002
 
+# IEEE Data Port Link
+Link: https://ieee-dataport.org/documents/indeepfake-novel-multimodal-multilingual-indian-deepfake-video-dataset
+
 # Dataset Constitution
 ![dataset distribution](https://github.com/user-attachments/assets/3813a282-0db9-465a-8b3c-0eb31d5c5c10)
 
